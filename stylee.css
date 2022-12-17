@@ -1,0 +1,22 @@
+h1
+{
+    background-color: peru;
+    font-family: 'Times New Roman', Times, serif;
+    border: 7px solid blueviolet;
+}
+#iddd
+{
+    color: blue;
+}
+
+button
+{
+    width: 100px;
+    height: 50px;
+    background-color: blue;
+}
+
+button:hover
+{
+    background-color: rebeccapurple;
+}
